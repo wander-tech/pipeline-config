@@ -17,4 +17,4 @@ jobs:
           node-version: "22"
 
       - name: Run Code
-        run: npm run index.js
+        run: node index.js
